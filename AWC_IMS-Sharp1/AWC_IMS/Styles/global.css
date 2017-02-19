@@ -1,0 +1,65 @@
+﻿html { }
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: url("../Images/navbar.png");
+	background-repeat: repeat-x;
+	margin: 0px;
+	text-align: center;
+}
+
+#section01, #section02, #section03, #section04 {
+	width: 960px;
+	margin: 5px auto 20px auto;
+	text-align: left;
+}
+
+#section01 {
+	/*background-image: url("Images/navbar.png");
+	background-repeat: repeat-x;*/
+}
+
+#section03 {
+	width: 100%;
+}
+
+#pageTitle {
+    font-size: 1.3em;
+}
+
+h6 {
+	color: #465c71;
+	font-size: 1.2em;
+	cursor: default;
+	margin: 5px 0px 0px 0px;
+}
+
+div.social {
+	text-align: left;
+	height: 30px;
+	padding-top: 10px;
+	float: left;
+}
+
+img.social {
+	width: 64px;
+	height: 64px;
+	margin: 6px;
+}
+
+img.social:hover {
+	width: 70px;
+	height: 70px;
+	margin: 3px;
+}
+
+#section03 a {
+	text-align: center;
+	color: #999;
+	margin: 2px;
+	font-size: .9em;
+}
+
+#section03 a:hover {
+	color: #465c71;
+}

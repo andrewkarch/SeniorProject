@@ -1,0 +1,55 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Anderson_Widget_Company.Order"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <StackPanel Name="stackPanel1">
+                <TextBlock Name="ApplicationTitle" Style="{StaticResource PhoneTextNormalStyle}" Text="Anderson Widget Company" TextAlignment="Center" />
+                <TextBlock Margin="9,-7,0,0" Name="PageTitle" Style="{StaticResource PhoneTextTitle1Style}" Text="Order" TextAlignment="Center" />
+            </StackPanel>
+            <Grid Name="grid1"></Grid>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Button Content="Confirm Quantity" Height="72" HorizontalAlignment="Left" Margin="10,538,0,0" Name="button1" VerticalAlignment="Top" Width="291" Click="button1_Click_1" />
+            <Button Content="Confirm Pick" Height="72" HorizontalAlignment="Left" Margin="6,477,0,0" Name="button2" VerticalAlignment="Top" Width="295" Click="button2_Click_1" />
+            <TextBlock Height="471" HorizontalAlignment="Left" Name="textBlock1" Text="Loading..." VerticalAlignment="Top" Width="456" TextWrapping="Wrap" FontFamily="Courier New" FontSize="28" />
+            <ListBox Height="468" HorizontalAlignment="Left" Name="listBox1" VerticalAlignment="Top" Width="447" FontSize="24" Margin="4,3,0,0" FontFamily="Courier New" />
+            <Button Content="+" Height="71" HorizontalAlignment="Left" Margin="286,477,0,0" Name="button3" VerticalAlignment="Top" Width="171" Click="button3_Click_1" />
+            <Button Content="-" Height="71" HorizontalAlignment="Left" Margin="284,539,0,0" Name="button4" VerticalAlignment="Top" Width="171" Click="button4_Click" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

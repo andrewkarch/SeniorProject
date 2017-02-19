@@ -1,0 +1,15 @@
+﻿.footer {
+	width: 100%;
+	/*background: -moz-linear-gradient(top, #777, #000);*/
+	margin: 0px;
+	height: 60px;
+	float: left;
+	text-align: center;
+}
+
+.footer p {
+	margin: 12px;
+	color: #465c71;
+	font-size: 0.9em;
+	cursor: default;
+}

@@ -1,0 +1,23 @@
+﻿input.quantity
+{
+    width: 30px;
+    font-size: 1em;
+    height: 15px;
+}
+
+input.addCart
+{
+    width: 70px;
+    font-size: .8em;
+    height: 20px;
+}
+
+th.radioColumn
+{
+    width: 30px;
+}
+
+th.quantityColumn
+{
+    width: 200px;
+}

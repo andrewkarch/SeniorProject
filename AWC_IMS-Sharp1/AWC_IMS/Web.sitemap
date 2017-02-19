@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Default.aspx" title="Home"  description="Welcome to AWC!">
+        <siteMapNode url="~/Catalog.aspx" title="Catalog"  description="AWC Product Catalog" />
+        <siteMapNode url="~/Contact.aspx" title="Contact"  description="Contact AWC" />
+        <siteMapNode url="~/About.aspx" title="About"  description="About AWC" />
+    </siteMapNode>
+</siteMap>

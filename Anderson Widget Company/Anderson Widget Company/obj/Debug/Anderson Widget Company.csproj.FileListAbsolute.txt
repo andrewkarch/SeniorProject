@@ -1,0 +1,115 @@
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\ApplicationIcon.png
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Background.png
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.dll
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.pdb
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\AppManifest.xaml
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson_Widget_Company.xap
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\ResolveAssemblyReference.cache
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\App.g.i.cs
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\MainPage.g.i.cs
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.g.resources
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.dll
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.pdb
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\XapCacheFile.xml
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Page1.g.i.cs
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\currentOrder.g.i.cs
+F:\School\Spring 2013\CS483\Implementation\New folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\modifyInventory.g.i.cs
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\ResolveAssemblyReference.cache
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\App.g.i.cs
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\currentOrder.g.i.cs
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\MainPage.g.i.cs
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\modifyInventory.g.i.cs
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Page1.g.i.cs
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.g.resources
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.dll
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\ApplicationIcon.png
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Background.png
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.dll
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.pdb
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\AppManifest.xaml
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson_Widget_Company.xap
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.pdb
+G:\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\XapCacheFile.xml
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\ApplicationIcon.png
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Background.png
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.dll
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.pdb
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\AppManifest.xaml
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson_Widget_Company.xap
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\App.g.i.cs
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\currentOrder.g.i.cs
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\MainPage.g.i.cs
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\modifyInventory.g.i.cs
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Page1.g.i.cs
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.g.resources
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.dll
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.pdb
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\Mobile Application Shell\Implementation\New Folder\Anderson Widget Company\Anderson Widget Company\obj\Debug\XapCacheFile.xml
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\App.g.i.cs
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\currentOrder.g.i.cs
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\MainPage.g.i.cs
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\modifyInventory.g.i.cs
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\Page1.g.i.cs
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.g.resources
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\Bin\Debug\ApplicationIcon.png
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Background.png
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.dll
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.pdb
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\Bin\Debug\AppManifest.xaml
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson_Widget_Company.xap
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.dll
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.pdb
+C:\Users\tylEr\Desktop\Combined solution\Anderson Widget Company\Anderson Widget Company\obj\Debug\XapCacheFile.xml
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\App.g.i.cs
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\currentOrder.g.i.cs
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\MainPage.g.i.cs
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\modifyInventory.g.i.cs
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Page1.g.i.cs
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.g.resources
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.dll
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\ApplicationIcon.png
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Background.png
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.dll
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.pdb
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\AppManifest.xaml
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson_Widget_Company.xap
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.pdb
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\XapCacheFile.xml
+D:\Downloads\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Order.g.i.cs
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\ApplicationIcon.png
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Background.png
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.dll
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.pdb
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\AppManifest.xaml
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson_Widget_Company.xap
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\App.g.i.cs
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\currentOrder.g.i.cs
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\MainPage.g.i.cs
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\modifyInventory.g.i.cs
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Page1.g.i.cs
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Order.g.i.cs
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.g.resources
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.dll
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.pdb
+D:\Downloads\Combined solution (1)\Combined solution (1)\Anderson Widget Company\Anderson Widget Company\obj\Debug\XapCacheFile.xml
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\Bin\Debug\ApplicationIcon.png
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Background.png
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.dll
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson Widget Company.pdb
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\Bin\Debug\AppManifest.xaml
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\Bin\Debug\Anderson_Widget_Company.xap
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\App.g.i.cs
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\currentOrder.g.i.cs
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\MainPage.g.i.cs
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\modifyInventory.g.i.cs
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\Page1.g.i.cs
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\Order.g.i.cs
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.g.resources
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.dll
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\Anderson Widget Company.pdb
+D:\Downloads\Presentaiton Build\Anderson Widget Company\Anderson Widget Company\obj\Debug\XapCacheFile.xml

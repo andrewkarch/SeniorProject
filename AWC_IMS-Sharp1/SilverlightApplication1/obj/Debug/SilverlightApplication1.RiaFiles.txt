@@ -1,0 +1,2 @@
+D:\Downloads\Combined solution (1)\AWC_IMS-Sharp1\SilverlightApplication1
+Generated_Code\AWC_IMS.g.cs

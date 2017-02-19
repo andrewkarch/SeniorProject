@@ -1,0 +1,16 @@
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Script.PreDeployment.sql
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Script.PostDeployment.sql
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Database.sqlsettings
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Database.sqldeployment
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Database.sqlcmdvars
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1.deploymanifest
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1.dbschema
+C:\Users\Jarod\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\obj\Debug\db1.dbschema
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Script.PreDeployment.sql
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Script.PostDeployment.sql
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Database.sqlsettings
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Database.sqldeployment
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1_Database.sqlcmdvars
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1.deploymanifest
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\sql\debug\db1.dbschema
+D:\Google Drive\Senior Project [Spring 2013]\Implementation\AWC_IMS\dbo\obj\Debug\db1.dbschema

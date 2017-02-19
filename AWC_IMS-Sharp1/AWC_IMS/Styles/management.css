@@ -1,0 +1,103 @@
+﻿.manageMenu
+{
+    border: 3px solid #eeeeee;
+    width: 350px;
+    padding-left: 10px;
+	text-align: left;
+}
+
+.manageMenu p.menuHeading
+{
+    font-size: 1.1em;
+    color: #000000;
+}
+
+.manageMenu input.item
+{
+    font-size: 1.1em;
+	background-repeat: repeat-x;
+	width: 250px;
+}
+
+.formPanel
+{
+    border: 3px solid #eeeeee;
+    width: 650px;
+    padding: 10px;
+	text-align: left;
+	float: left;
+}
+
+.formPanel .button 
+{
+    margin-left: 20px;   
+}
+
+.formControlColumnLeft1
+{
+    float: left;
+    text-align: right;
+    margin: 0px 0px 20px 0px;
+}
+
+.formControlColumnLeft2
+{
+    float: left;
+    text-align: left;
+    margin: 0px 0px 20px 0px;
+}
+
+.formControlColumnRight1
+{
+    float: left;
+    text-align: right;
+    margin: 0px 0px 20px 40px;
+}
+
+.formControlColumnRight2
+{
+    text-align: left;
+    margin: 0px 0px 20px 0px;
+}
+
+.hidden
+{
+    display: none;
+}
+
+#MainContent_lblFormName
+{
+    font-size: 1.6em;
+    position: relative;
+    top: -27px;
+    display: block;
+    float: none;
+    margin-bottom: -25px;
+    background-color: #FFFFFF;
+    width: 170px;
+}
+
+.error
+{
+    float: none;
+    display: block;
+    background-color: #FFC9CD;
+    padding: 1px 5px 1px 5px;
+    margin: 7px 0px 5px 0px;
+    width: 300px;
+}
+
+.formLabel
+{
+    display: block;
+	float: left;
+	width: 120px;
+	text-align: right;
+	padding: 2px 1ex 6px 0;
+	vertical-align: baseline;
+}
+
+.formInput
+{
+    float: left;
+}

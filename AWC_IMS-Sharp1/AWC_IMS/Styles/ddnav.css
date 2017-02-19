@@ -1,0 +1,62 @@
+﻿#navbar {
+	text-align: left;
+	margin: 0px 8px 0px 8px;
+	padding: 0px;
+	font-size: 1.1em;
+}
+#navbar li {
+	list-style: none;
+	float: left;
+	border-radius: 10px;
+}
+#navbar li a {
+	margin-right: 10px;
+	display: block;
+	padding: 1px 10px 5px 10px;
+	background-color: none;
+	color: #eee;
+	text-decoration: underline;
+	border-bottom: 1px solid #a9a9b1;
+	border-right: 1px solid #a9a9b1;
+	/*border-bottom: 2px solid #999;*/
+	font-weight: bold;
+	border-radius: 8px;
+}
+#navbar li ul {
+	z-index:7;
+	position: absolute;
+	display: none;
+	width: 11em; /* Width to help Opera out */
+	background: none;
+	font-size: .8em;
+}
+#navbar li:hover a {
+	color: #555;
+	background-color: #eee;
+}
+#navbar li:hover ul {
+	/*display: block;*/
+	position: absolute;
+	margin: 0px;
+	padding: 0px;
+	width: 170px;
+}
+#navbar li:hover li {
+	float: none;
+}
+#navbar li:hover li a {
+	border-bottom: 1px solid #fff;
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	color: #fff;
+	padding: 5px 8px 5px;
+	text-decoration: none;
+	background-color: #999;
+	opacity: 0.83;
+}
+#navbar li li a:hover {
+	background-color: #5f95ef;
+	opacity: .87;
+	position: relative;
+}

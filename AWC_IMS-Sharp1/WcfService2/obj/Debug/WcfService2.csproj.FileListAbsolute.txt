@@ -1,0 +1,15 @@
+D:\Downloads\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\bin\WcfService2.dll
+D:\Downloads\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\bin\WcfService2.pdb
+D:\Downloads\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\obj\Debug\WcfService2.dll
+D:\Downloads\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\obj\Debug\WcfService2.pdb
+D:\Downloads\Combined solution (1)\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\bin\WcfService2.dll
+D:\Downloads\Combined solution (1)\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\bin\WcfService2.pdb
+D:\Downloads\Combined solution (1)\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Combined solution (1)\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\obj\Debug\WcfService2.dll
+D:\Downloads\Combined solution (1)\Combined solution (1)\AWC_IMS-Sharp1\WcfService2\obj\Debug\WcfService2.pdb
+D:\Downloads\Presentaiton Build\AWC_IMS-Sharp1\WcfService2\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Presentaiton Build\AWC_IMS-Sharp1\WcfService2\obj\Debug\WcfService2.dll
+D:\Downloads\Presentaiton Build\AWC_IMS-Sharp1\WcfService2\bin\WcfService2.dll
+D:\Downloads\Presentaiton Build\AWC_IMS-Sharp1\WcfService2\bin\WcfService2.pdb
+D:\Downloads\Presentaiton Build\AWC_IMS-Sharp1\WcfService2\obj\Debug\WcfService2.pdb
